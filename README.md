@@ -1,2 +1,4 @@
 # regedit-help
-Как пользоваться редактором реестра Windows
+Инструкции "Как пользоваться редактором реестра Windows"
+
+https://dashkapelmeshka.github.io/regedit-help/
